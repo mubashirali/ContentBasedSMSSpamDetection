@@ -1,4 +1,4 @@
-# ContentBasedSMSSpamDtectionon
+# ContentBasedSMSSpamDetection
 Content Based SMS Spam Detection on Android
 
 Many consumers find unwanted SMS which are annoying and time-consuming and can include commercial messages known as spam. With the popularity of smart phones and cheap SMS packages, such messages are received more frequently than ever before. 
