@@ -6,7 +6,7 @@ The combined output of three classifiers; Decision trees, Bayesian and SVM show 
 We give a detail comparison of our classifiers based on experimental results using real training dataset and finally prove how these layers can help users in identifying a spam much accurately then before. 
 In order to achieve time constraints we suggest a cloud based implementation of the system.   
 
-#Background
+# Background
 
 Spam filtering is an automatic document classification to evaluate that he document is spam or not. Automatic document classification makes a collection of similar documents and allocate proper category to them, which is accomplish in two phases.
 First phase is feature selection method, which extracts the needed features to classify. While the second phase is decision making process, which choose right category for the result from first phase. It gives the ability to assign right category through machine learning approach. Worth mentioning, if we select every word in learned document as a feature, it loses judgment. To prevent this calculate the weight of information for each word then select featured words for automatic classification.
